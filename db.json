@@ -1,5 +1,5 @@
 {
   "WalkData": [
-    { "id": 1, "title": "post 1", "description": "", "latitude": 0.0, "longitude": 0.0, "distance": 0, "difficulty": "Hard", "imageUrl": ""  }
+    { "id": 1, "title": "10 Mile Brook Trail, Margaret River", "description": "The 10 Mile Brook Trail starts in the Rotary Park near Old Kate, a preserved steam engine at the northern edge of Margaret River.", "latitude": -33.9727604, "longitude": 115.0861599, "distance": 7.5, "difficulty": "Medium", "imageUrl": "http://trailswa.com.au/media/cache/media/images/trails/_mid/FullSizeRender1_600_480_c1.jpg"  }
   ]
 }
